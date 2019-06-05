@@ -1,9 +1,6 @@
 body {
 	background-color:orange;
 }
-h1 {
-	color:yellow;
-}
 
 .bloco {
 	border:3px blue;
